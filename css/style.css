@@ -244,11 +244,11 @@ footer p {
 		display: block;
 	}
 
-/*	.nav-trigger {
+	.nav-trigger {
 		display: block;
 		z-index: 10;
 		transition: 400ms all;
-	}*/
+	}
 
 	.active {
 		transform: rotate(90deg);
